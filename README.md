@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="assets/logo.png" height="45" style="vertical-align: middle; margin-right: 10px;"> ATLAS: Agentic or Latent Visual Reasoning?<br>
+  <img src="assets/logo.png" height="45" style="vertical-align: middle; margin-right: 5px;"> ATLAS: Agentic or Latent Visual Reasoning?<br>
   One Word is Enough for Both
 </h1>
 
