@@ -1,16 +1,9 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="assets/logo.png" height="55" style="vertical-align: middle; margin-right: 10px;"> ATLAS: Agentic or Latent Visual Reasoning?<br>
+  <img src="assets/logo.png" height="45" style="vertical-align: middle; margin-right: 10px;"> ATLAS: Agentic or Latent Visual Reasoning?<br>
   One Word is Enough for Both
 </h1>
-
-[Ziyu Guo](https://ziyuguo99.github.io/)<sup>1,2</sup>,
-Rain Liu<sup>2</sup>,
-[Xinyan Chen](https://xinyan-cxy.github.io/)<sup>1</sup>,
-[Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng)<sup>1</sup>
-
-<sup>1</sup>CUHK &nbsp; <sup>2</sup>Meta
 
 [[🌍 Project Page](https://atlas-oneword.github.io/)] [[📖 Paper](https://atlas-oneword.github.io/)] [[🤗 Model](https://atlas-oneword.github.io/)]
 
