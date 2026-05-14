@@ -11,6 +11,7 @@
 
 ## News
 
+- **[2026.5.15]** The paper is released on arXiv. 🚀
 - Code, model, and data release are currently under company review. Coming soon.
 
 ## Overview
