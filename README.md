@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-  ATLAS: Agentic or Latent Visual Reasoning?<br>
+  <img src="assets/logo.png" height="55" style="vertical-align: middle; margin-right: 10px;"> ATLAS: Agentic or Latent Visual Reasoning?<br>
   One Word is Enough for Both
 </h1>
 
@@ -12,10 +12,9 @@ Rain Liu<sup>2</sup>,
 
 <sup>1</sup>CUHK &nbsp; <sup>2</sup>Meta
 
-**[[Project Page]](https://atlas-oneword.github.io)** &nbsp;
-**[[Paper]](https://atlas-oneword.github.io)** &nbsp;
-**[[Model]](https://atlas-oneword.github.io)** &nbsp;
-**[[Data]](https://atlas-oneword.github.io)**
+Official repository for the paper "[ATLAS](https://atlas-oneword.github.io/)".
+
+[[🌍 Project Page](https://atlas-oneword.github.io/)] [[📖 Paper](https://atlas-oneword.github.io/)] [[🤗 Model](https://atlas-oneword.github.io/)]
 
 </div>
 
@@ -29,7 +28,7 @@ Rain Liu<sup>2</sup>,
   <img src="assets/intro_v4_00.png" width="95%" alt="ATLAS overview"/>
 </p>
 
-## Method
+## ATLAS
 
 <p align="center">
   <img src="assets/pipe_sep_00.png" width="92%" alt="ATLAS pipeline"/>
