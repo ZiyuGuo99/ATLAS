@@ -12,8 +12,6 @@ Rain Liu<sup>2</sup>,
 
 <sup>1</sup>CUHK &nbsp; <sup>2</sup>Meta
 
-Official repository for the paper "[ATLAS](https://atlas-oneword.github.io/)".
-
 [[🌍 Project Page](https://atlas-oneword.github.io/)] [[📖 Paper](https://atlas-oneword.github.io/)] [[🤗 Model](https://atlas-oneword.github.io/)]
 
 </div>
@@ -45,7 +43,7 @@ Official repository for the paper "[ATLAS](https://atlas-oneword.github.io/)".
 </p>
 
 <p align="center">
-  <img src="assets/attention_00.png" width="92%" alt="ATLAS attention visualization"/>
+  <img src="assets/vis_attn1_00.png" width="92%" alt="ATLAS attention visualization"/>
 </p>
 
 ## Citation
