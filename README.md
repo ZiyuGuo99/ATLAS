@@ -5,14 +5,14 @@
   One Word is Enough for Both
 </h1>
 
-[[🌍 Project Page](https://atlas-oneword.github.io/)] [[📖 Paper](https://atlas-oneword.github.io/)] [[🤗 Model](https://atlas-oneword.github.io/)]
+[[🌍 Project Page](https://atlas-oneword.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2605.15198)] [[🤗 Model](https://atlas-oneword.github.io/)]
 
 </div>
 
 ## News
 
 - **[2026.5.15]** The paper is released on arXiv. 🚀
-- Code, model, and data release are currently under company review. Coming soon.
+- Code, model, and data release are currently under company review. Coming soon in a few days.
 
 ## Overview
 
