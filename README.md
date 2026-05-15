@@ -5,7 +5,7 @@
   One Word is Enough for Both
 </h1>
 
-[[🌍 Project Page](https://atlas-oneword.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2605.15198)] [[🤗 Model](https://atlas-oneword.github.io/)]
+[[🌍 Project Page](https://atlas-oneword.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2605.15198)] [[🤗 Model & Data](https://atlas-oneword.github.io/)]
 
 </div>
 
@@ -23,11 +23,11 @@
 ## ATLAS
 
 <p align="center">
-  <img src="assets/pipe_sep_00.png" width="92%" alt="ATLAS pipeline"/>
+  <img src="assets/pipe_sep_00.png" width="84%" alt="ATLAS pipeline"/>
 </p>
 
 <p align="center">
-  <img src="assets/lagrpo_00.png" width="92%" alt="LA-GRPO"/>
+  <img src="assets/lagrpo_00.png" width="84%" alt="LA-GRPO"/>
 </p>
 
 ## Visualization
